@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     url,
     siteName: 'Marta Kozma Portfolio',
     type: 'website',
-    images: ['https://martakozma.com/opengraph-image.png'],
+    images: ['https://martakozma.com/opengraph-image-new.png'],
   },
   twitter: {
     title,

@@ -45,7 +45,7 @@ const Hero = () => {
               fill={true}
               priority={true}
               sizes="(min-width: 1024px) 25.75rem, (min-width: 768px) 20rem, (min-width: 640px) 15rem, 14rem"
-              alt="John Doe - Full Stack Developer"
+              alt="Marta Kozma - Full Stack Developer"
               className="object-contain scale-120 rounded-full p-7"
               style={{
                 opacity: 0.6,

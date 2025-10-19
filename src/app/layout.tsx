@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   twitter: {
     title,
     description,
-    images: ['https://martakozma.com/opengraph-image.png'],
+    images: ['https://martakozma.com/opengraph-image-new.png'],
     card: 'summary_large_image',
     creator: '@Basit_Miyanji',
   },

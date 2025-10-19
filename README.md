@@ -1,4 +1,4 @@
-# 🌐 Portfolio — [Your Name]
+# 🌐 Portfolio — Marta KOZMA
 
 A modern, responsive developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**, showcasing my work as a **Full-Stack Developer**, **Python Developer**, and **JavaScript Developer**.
 

@@ -1,0 +1,12 @@
+{
+  "priority": 4,
+  "title": "Shopping Prophet",
+  "shortDescription": "AI-Driven Forecasting Purchases Through Customer Behavioral Analytics. A web application that leverages machine learning algorithms to analyze customer behavior and predict future purchasing trends, helping businesses optimize inventory and marketing strategies.",
+  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1598035107/pomodoro-clock_ctp2af.png",
+  "githubLink": "https://github.com/kozmarti/ml-customer-behavior",
+  "tools": [
+    "Python",
+    "PostgreSQL",
+    "Flask"  ],
+    "type": "Machine Learning 🤖"
+}

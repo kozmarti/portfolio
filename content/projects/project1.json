@@ -1,0 +1,17 @@
+{
+  "priority": 1,
+  "title": "Hike&Donate",
+  "shortDescription": "A long-term trekking tracker that visualizes your hikes in real-time, integrated with Strava, displays routes on interactive maps, tracks key stats like distance and elevation with your photos. Designed for those trekking with a purpose - automates donation tracking for charitable causes.",
+  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1645090814/color-contrast_n598kw.png",
+  "livePreview": "https://hike-donate.vercel.app/",
+  "githubLink": "https://github.com/kozmarti/hike-donate",
+  "type": "Tested on my GR10 hike ⛰️",
+  "siteAge": "1 month old",
+  "tools": [
+    "JavaScript",
+    "TypeScript",
+    "React / ReactNative",
+    "Next.js",
+    "MongoDB"
+  ]
+}

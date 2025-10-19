@@ -1,0 +1,14 @@
+{
+  "priority": 3,
+  "title": "DoneWithIt",
+  "shortDescription": "A market place for selling the stuff you don't need anymore. Built with React Native and Firebase, it allows users to list items for sale, browse listings, and communicate with buyers and sellers through an integrated chat feature.",
+  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1656971294/waitlist-template_qr4l9k.png",
+  "githubLink": "https://github.com/kozmarti/ReactNativeApp",
+  "type": "CodeWIthMosh Project 🚀",
+  "tools": [
+    "JavaScript",
+    "TypeScript",
+    "React / ReactNative",
+    "NodeJS"
+  ]
+}

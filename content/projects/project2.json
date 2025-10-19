@@ -1,0 +1,15 @@
+{
+  "priority": 2,
+  "title": "GameHub",
+  "shortDescription": "GameHub is a video game discovery web app built with React and TypeScript. It allows users to search for games by platform, genre, and more, providing detailed information and trailers.",
+  "cover": "https://res.cloudinary.com/dyvkdwzcj/image/upload/v1656970810/Codevertiser_xlxdje.png",
+  "livePreview": "https://game-hub-nu-olive.vercel.app/",
+  "githubLink": "https://github.com/kozmarti/game-hub",
+  "type": "CodeWIthMosh Project 🚀",
+  "tools": [
+    "JavaScript",
+    "TypeScript",
+    "React / ReactNative",
+    "NodeJS"
+  ]
+}

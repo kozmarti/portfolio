@@ -5,6 +5,7 @@ import Footer from '@/components/Footer/Footer'
 import Navbar from '@/components/Navbar/Navbar'
 import ThemeMenu from '@/components/Theme/ThemeMenu'
 import { Fira_Code } from 'next/font/google'
+import { Analytics } from "@vercel/analytics/next"
 
 const firaCode = Fira_Code({ subsets: ['latin'], weight: ['300', '400', '500', '600', '700'] })
 
@@ -28,10 +29,12 @@ export const metadata: Metadata = {
     url,
     siteName: 'Marta Kozma Portfolio',
     type: 'website',
+    images: ['https://martakozma.com/opengraph-image.png'],
   },
   twitter: {
     title,
     description,
+    images: ['https://martakozma.com/opengraph-image.png'],
     card: 'summary_large_image',
     creator: '@Basit_Miyanji',
   },
@@ -49,6 +52,7 @@ export default function RootLayout({
           <Navbar />
         </header>
         {children}
+        <Analytics/>
         <ThemeMenu />
         <Footer />
       </body>

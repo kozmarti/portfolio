@@ -248,4 +248,4 @@ export const themes = [
   },
 ]
 
-export const languages = ['En', 'Es', 'Fr', 'De', 'Ru']
+export const languages = ['En', 'Fr', 'Hu']

@@ -67,9 +67,9 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          {/*
+          
           <div className="md:self-end">
-            <p className="text-neutral mb-8 text-sm md:text-right">Languages</p>
+            <p className="text-neutral mb-8 text-sm md:text-right pr-10">Spoken Languages</p>
             <div className="flex gap-8 md:gap-4 lg:gap-8">
               {languages.map((language, idx) => (
                 <span
@@ -80,7 +80,7 @@ const Footer = () => {
               ))}
             </div>
           </div>
-*/}
+
         </div>
       </div>
 

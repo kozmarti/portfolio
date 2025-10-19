@@ -1,7 +1,7 @@
 import { Project } from '@/lib/types'
 import Image from 'next/image'
 import { Earning, GithubIcon, Likes, PreviewIcon, Star, Timer } from '../../utils/icons'
-import { getSkillIconByName, skillList } from '@/appData';
+import { getSkillIconByName } from '@/appData';
 
 const IconText: React.FC<{ icon: string; text: string }> = ({ icon, text }) => (
   <li className="flex gap-2">

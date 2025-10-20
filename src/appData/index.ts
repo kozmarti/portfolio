@@ -197,7 +197,7 @@ const iconMap: Record<string, typeof ReactIcon> = {
   "Next.js": NextjsIcon,
   "MongoDB": MongoDBIcon,
   "PostgreSQL": PostgreSQLIcon,
-  "Node.js": NodejsIcon,
+  "NodeJS": NodejsIcon,
   "Express.js": ExpressjsIcon,
   "Nest.js": NestjsIcon,
   "Socket.io": SocketIcon,

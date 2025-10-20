@@ -11,7 +11,7 @@ const ContactSection = () => {
           <h3 className="text-neutral text-3xl font-bold">Work With Me</h3>
           <h4 className="text-accent text-2xl font-bold md:text-3xl">Solving problems with code</h4>
           <p className="text-neutral mt-8">
-          If my skills fit your project, feel free to get in touch.
+          If my profile fit your project, feel free to get in touch.
           </p>
         </div>
 

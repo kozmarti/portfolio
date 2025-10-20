@@ -207,6 +207,7 @@ const iconMap: Record<string, typeof ReactIcon> = {
   "DjangoRESTframework": DjangoRestFrameworkIcon,
   "Flask": FlaskIcon,
   "FastAPI": FastApiIcon,
+  "Docker": DockerIcon,
 }
 
 export function getSkillIconByName(name: string): string {

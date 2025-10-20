@@ -39,14 +39,6 @@ export const metadata: Metadata = {
   verification: {
     google: 'Xy4-Fm4IpvJ-9cSnHNaP7T3OLw0X-jmRMeqLJNzyf0I',
   },
-  icons: {
-    icon: [
-      { url: '/favicon.ico', sizes: '48x48', type: 'image/x-icon' },
-      { url: '/icon2.png', sizes: '32x32', type: 'image/png' },
-      { url: '/icon1.png', sizes: '16x16', type: 'image/png' },
-    ],
-    apple: '/apple-touch-icon.png',
-  },
 }
 
 export default function RootLayout({

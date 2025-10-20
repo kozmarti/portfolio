@@ -4,8 +4,8 @@ import Logo from '../Navbar/Logo'
 
 const Footer = () => {
   return (
-    <footer className="bg-secondary relative flex min-h-[560px] flex-col justify-between gap-20 overflow-hidden px-4 py-14 md:p-14">
-      <div className="relative z-20 grid grid-cols-1 items-start gap-20 md:grid-cols-2 md:gap-12">
+    <footer className="bg-secondary relative flex min-h-[200px] flex-col justify-between overflow-hidden px-4 py-14 md:p-14">
+      <div className="relative z-20 grid grid-cols-1 items-start gap-10 md:grid-cols-2 md:gap-12">
         <div>
           <h5 className="mb-8 flex items-center gap-2">
             <Logo width={30} height={24} />
@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="relative z-20 flex flex-col-reverse gap-20 md:grid md:grid-cols-2 md:gap-12">
+      <div className="relative z-20 flex flex-col-reverse gap-10 md:grid md:grid-cols-2 md:gap-12">
         <div className="grid grid-cols-2 gap-4">
           <ul className="flex flex-col justify-end gap-4">
             {socials.map((item, index) => (
@@ -47,7 +47,7 @@ const Footer = () => {
           </p>
         </div>
 
-        <div className="flex flex-col justify-between gap-[200px] md:flex-row md:gap-8">
+        <div className="flex flex-col justify-between gap-[50px] md:flex-row md:gap-8">
           <div className="space-y-10 md:self-end">
             <div className="flex flex-col">
               <h5 className="text-neutral mb-4 text-lg font-medium">Contact</h5>

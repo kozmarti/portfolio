@@ -23,10 +23,15 @@ export const metadata: Metadata = {
   alternates: {
     canonical: url,
   },
+  icons: {
+    icon: '/favicon.ico',
+    apple: '/apple-touch-icon.png',
+  },
   openGraph: {
     title,
     description,
     url,
+    images: ['/opengraph-image.png'],
     siteName: 'Marta Kozma Portfolio',
     type: 'website',
   },
@@ -34,6 +39,7 @@ export const metadata: Metadata = {
     title,
     description,
     card: 'summary_large_image',
+    images: ['/twitter-image.png'],
     creator: '@Basit_Miyanji',
   },
   verification: {

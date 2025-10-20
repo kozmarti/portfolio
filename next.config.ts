@@ -29,6 +29,12 @@ const nextConfig: NextConfig = {
         protocol: 'https',
         hostname: 'i.pravatar.cc',
       },
+      {
+        protocol: 'https',
+        hostname: 'y8bhm960og.ufs.sh',
+        port: '',
+        pathname: '/**',
+      },
     ],
   },
 }

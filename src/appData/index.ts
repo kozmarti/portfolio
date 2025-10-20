@@ -204,6 +204,7 @@ const iconMap: Record<string, typeof ReactIcon> = {
   "Tailwind CSS": TailwindCSS,
   "Python": PythonIcon,
   "Django": DjangoIcon,
+  "DjangoRESTframework": DjangoRestFrameworkIcon,
   "Flask": FlaskIcon,
   "FastAPI": FastApiIcon,
 }

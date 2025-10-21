@@ -140,7 +140,6 @@ export const serviceData = [
   ];
   
 
-// Skill List
 export const skillList = [
   {
     name: 'JavaScript',

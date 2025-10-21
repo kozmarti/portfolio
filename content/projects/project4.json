@@ -2,7 +2,7 @@
   "priority": 4,
   "title": "Brewery Stock Management",
   "shortDescription": "A RESTful API for managing beer stocks across multiple bars. Supports anonymous users for ordering, and authenticated staff for managing stock and viewing statistics. Built with Django REST Framework and token-based authentication.",
-  "cover": "https://y8bhm960og.ufs.sh/f/U0dTd9UxAOHlUgIiLxAOHlz7KycdN2XVnv6jpDrg9BYE5PfW",
+  "cover": "https://y8bhm960og.ufs.sh/f/U0dTd9UxAOHlYsHh9PrPRt2FXLuS8jM6Erzn1G5TafoVbkxK",
   "githubLink": "https://github.com/kozmarti/brewery_api_restful",
   "tools": [
     "Python",

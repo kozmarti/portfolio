@@ -40,7 +40,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ data }) => {
             <h3 className="text-secondary-content text-lg font-medium md:font-semibold">{title}</h3>
             {type && (
               <span
-                className={`h-7 w-fit rounded-md bg-[#FFFFFF1A] p-1 text-sm ${type === 'New 🔥' ? 'animate-blink text-tag' : 'text-accent'} backdrop-blur-[80px]`}>
+                className={`h-7 w-fit rounded-md bg-[#FFFFFF1A] p-1 text-sm ${type === 'New 🔥' ? 'animate-blink text-tag' : 'text-accent'} backdrop-blur-[80px] whitespace-nowrap`}>
                 {type}
               </span>
             )}

@@ -1,0 +1,16 @@
+{
+  "priority": 7,
+  "title": "AML-CFT algorithms at HelloAsso",
+  "shortDescription": "Developed algorithms to support the AML-CFT (Anti-Money Laundering and Countering the Financing of Terrorism) team by detecting and flagging potential fraudulent activities.",
+  "cover": "https://y8bhm960og.ufs.sh/f/U0dTd9UxAOHlobpIvGUM5UVgpvzJKS7Of38T6F4cCsYGdqtk",
+  "livePreview": "https://www.helloasso.com/",
+  "tools": [
+    "Python",
+    "Django",
+    "DjangoRESTframework",
+    "Docker",
+    "PostgreSQL",
+    "FastAPI"
+  ],
+  "type": "Professional Experience 💼"
+}

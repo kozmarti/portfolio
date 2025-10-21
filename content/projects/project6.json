@@ -1,16 +1,13 @@
 {
   "priority": 6,
-  "title": "AML-CFT algorithms at HelloAsso",
-  "shortDescription": "Developed algorithms to support the AML-CFT (Anti-Money Laundering and Countering the Financing of Terrorism) team by detecting and flagging potential fraudulent activities.",
-  "cover": "https://y8bhm960og.ufs.sh/f/U0dTd9UxAOHlobpIvGUM5UVgpvzJKS7Of38T6F4cCsYGdqtk",
-  "livePreview": "https://www.helloasso.com/",
+  "title": "Learning Platform at Opquast",
+  "shortDescription": "Worked on a scalable learning management system built with Django, supporting web quality certification and course tracking.",
+  "cover": "https://y8bhm960og.ufs.sh/f/U0dTd9UxAOHlq1aBbezSeGrEd3ns4PakRFZ6XgYl8KMHN7bp",
+  "livePreview": "https://opquast.com/",
   "tools": [
     "Python",
-    "Django",
-    "DjangoRESTframework",
-    "Docker",
     "PostgreSQL",
-    "FastAPI"
+    "Django"
   ],
-  "type": "Professional Experience 💼"
+    "type": "Professional Experience 🤖"
 }

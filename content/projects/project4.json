@@ -1,12 +1,13 @@
 {
   "priority": 4,
-  "title": "Shopping Prophet",
-  "shortDescription": "AI-Driven Forecasting Purchases Through Customer Behavioral Analytics. A web application that leverages machine learning algorithms to analyze customer behavior and predict future purchasing trends, helping businesses optimize inventory and marketing strategies.",
-  "cover": "https://y8bhm960og.ufs.sh/f/U0dTd9UxAOHlxrmADPI4Yd5vVO9ufC0KNJA2mwq8LRWbnFek",
-  "githubLink": "https://github.com/kozmarti/ml-customer-behavior",
+  "title": "Brewery Stock Management",
+  "shortDescription": "A RESTful API for managing beer stocks across multiple bars. Supports anonymous users for ordering, and authenticated staff for managing stock and viewing statistics. Built with Django REST Framework and token-based authentication.",
+  "cover": "https://y8bhm960og.ufs.sh/f/U0dTd9UxAOHlUgIiLxAOHlz7KycdN2XVnv6jpDrg9BYE5PfW",
+  "githubLink": "https://github.com/kozmarti/brewery_api_restful",
   "tools": [
     "Python",
-    "PostgreSQL",
-    "Flask"  ],
-    "type": "Machine Learning 🤖"
+    "Django",
+    "DjangoRESTframework"
+    ],
+  "type": "API REST (& Chill 🍺)"
 }

@@ -44,7 +44,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ data }) => {
                 {type}
               </span>
             )}
-            <div className="tools-icons flex gap-2 mt-2">
+            <div className="tools-icons flex flex-row  gap-2 mt-2 w-full">
         {tools?.map((toolName, index) => {
           const Icon = getSkillIconByName(toolName)
           return Icon ? <Image key={index + "-skill"} src={Icon} alt={toolName} className="mx-2 size-5 lg:size-7" />: null

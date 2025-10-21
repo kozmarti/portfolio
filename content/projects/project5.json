@@ -1,13 +1,11 @@
 {
   "priority": 5,
-  "title": "Learning Platform at Opquast",
-  "shortDescription": "Worked on a scalable learning management system built with Django, supporting web quality certification and course tracking.",
-  "cover": "https://y8bhm960og.ufs.sh/f/U0dTd9UxAOHlq1aBbezSeGrEd3ns4PakRFZ6XgYl8KMHN7bp",
-  "livePreview": "https://opquast.com/",
+  "title": "Shopping Prophet",
+  "shortDescription": "AI-Driven Forecasting Purchases Through Customer Behavioral Analytics. A web application that leverages machine learning algorithms to analyze customer behavior and predict future purchasing trends, helping businesses optimize inventory and marketing strategies.",
+  "cover": "https://y8bhm960og.ufs.sh/f/U0dTd9UxAOHlxrmADPI4Yd5vVO9ufC0KNJA2mwq8LRWbnFek",
+  "githubLink": "https://github.com/kozmarti/ml-customer-behavior",
   "tools": [
     "Python",
-    "PostgreSQL",
-    "Django"
-  ],
-    "type": "Professional Experience 🤖"
+    "Flask"  ],
+    "type": "Machine Learning 🤖"
 }

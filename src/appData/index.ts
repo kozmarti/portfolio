@@ -162,7 +162,7 @@ export const skillList = [
     icon: PythonIcon,
   },
   {
-    name: 'Django / Django REST framework',
+    name: 'Django / Django REST Framework',
     icon: DjangoIcon,
   },
   {

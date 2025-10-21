@@ -74,7 +74,7 @@ const Footer = () => {
               {languages.map((language, idx) => (
                 <span
                   key={language}
-                  className={idx === 0 ? 'text-neutral' : 'text-tertiary-content'}>
+                  className='text-neutral'>
                   {language}
                 </span>
               ))}

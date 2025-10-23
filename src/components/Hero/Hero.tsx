@@ -46,11 +46,11 @@ const Hero = () => {
               priority={true}
               sizes="(min-width: 1024px) 25.75rem, (min-width: 768px) 20rem, (min-width: 640px) 15rem, 14rem"
               alt="Marta Kozma - Full Stack Developer"
-              className="object-contain scale-120 rounded-full p-7"
+              className="object-contain rounded-full p-7"
               style={{
                 opacity: 0.6,
                 aspectRatio: 1,
-                clipPath: 'circle(38% at 50% 50%)',
+                //clipPath: 'circle(38% at 50% 50%)',
               }}
             />
             <Ellipse

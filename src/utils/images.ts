@@ -1,3 +1,3 @@
-import HeroImage from '../assets/images/profil_photo.jpeg'
+import HeroImage from '../assets/images/profil_photo_new.jpeg'
 
 export { HeroImage }
